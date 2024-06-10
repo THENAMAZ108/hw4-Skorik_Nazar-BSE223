@@ -68,3 +68,4 @@
 - JDBC драйвер для PostgreSQL;
 - jjwt-api, jjwt-impl, jjwt-jackson: Библиотеки для работы с JSON Web Tokens (JWT);
 - Lombok для минимизации шаблонного кода.
+change for pull request
